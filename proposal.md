@@ -1,20 +1,19 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: *statsmodels.tsa.holtwinters.ExponentialSmoothing*
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+*This software is a method developed by Holt-Winters, which uses exponential smoothing to use values from the past to predict "typical" present and future values. It's a form of 'linear regression' algorithm.*
 
 ### Stats
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
+| Repository URL | https://github.com/statsmodels/statsmodels |
+| Main/documentation website | https://www.statsmodels.org/stable/index.html |
+| Year project was started | 2009 |
 | Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
+| Number of contributors in the lifetime of the project | 351 |
 | Number of distinct affiliations | 1, 2-5, 5-10, >10 |
 | Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
 | Typical number of emails/comments per week? |   |
